@@ -1,4 +1,6 @@
-# SafeSurf – AI-Driven Parental Control & Online Safety Platform
+# SafeSurf – AI-Driven Parental Control & Online Safety Platform LINK : https://addons.mozilla.org/addon/safesurf_parentalcontrol/
+
+Try this
 
 SafeSurf is a cross-platform parental control system designed to **monitor, analyze, and restrict harmful online content** for children in real time.  
 The platform combines **mobile applications, browser extensions, and AI-based NLP models** to provide fast, privacy-aware content filtering and activity monitoring.
